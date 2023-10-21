@@ -16,5 +16,5 @@ class AA {
 
 $obj = new AA();
 
-echo $obj->msg1();
+echo $obj->msg1(); 
 ?>
